@@ -1,5 +1,10 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shishirrsiam&label=Profile%20views&color=0e75b6&style=flat" alt="shishirrsiam" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=facebook-auto-unfriend&label=Repository%20views&color=0e75b6&style=flat" alt="facebook-auto-unfriend" /> </p>
 
 # Facebook Auto-Unfriend Tool 🤖
+
+
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -28,7 +33,7 @@ An automated tool that helps clean up your Facebook friend list using Python and
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/facebook-auto-unfriend.git
+git clone https://github.com/shishirRsiam/facebook-auto-unfriend.git
 cd facebook-auto-unfriend
 ```
 
