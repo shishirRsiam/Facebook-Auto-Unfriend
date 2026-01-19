@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shishirrsiam&label=Profile%20views&color=0e75b6&style=flat" alt="shishirrsiam" /> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=facebook-auto-unfriend&label=Repository%20views&color=0e75b6&style=flat" alt="facebook-auto-unfriend" /> </p>
 
@@ -206,3 +206,6 @@ MIT License
 Copyright (c) 2026 [shishirRsiam]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 ... [standard MIT license text] ...
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shishirrsiam&label=Profile%20views&color=0e75b6&style=flat" alt="shishirrsiam" /> </p>

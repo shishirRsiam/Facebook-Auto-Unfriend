@@ -14,3 +14,4 @@
 19-01-2026 10:56:57   47  git add .
 19-01-2026 10:57:34   48  git commit -m "Add my_command_history and others png images"
 19-01-2026 10:57:40   49  git push
+19-01-2026 11:02:21   50  push "update readme.md file"
