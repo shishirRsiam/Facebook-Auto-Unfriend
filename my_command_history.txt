@@ -1,0 +1,13 @@
+19-01-2026 10:47:22   49  cd Facebook-Auto-Unfriend/
+19-01-2026 10:47:27   50  code .
+19-01-2026 10:48:11   37  ./app.exe 
+19-01-2026 10:48:13   37  ./app.exe 
+19-01-2026 10:54:37   38  git add unfriend_automation.py 
+19-01-2026 10:54:53   39  git commit -m "Add main Python automation script"
+19-01-2026 10:55:03   40  git push 
+19-01-2026 10:55:14   41  git add requirements.txt 
+19-01-2026 10:55:30   42  git commit -m "Add required dependencies in requirements.txt"
+19-01-2026 10:55:40   43  git add README.md 
+19-01-2026 10:55:55   44  git commit -m "Add comprehensive README with setup instructions"
+19-01-2026 10:56:26   45  git add .gitignore 
+19-01-2026 10:56:39   46  git commit -m "Add .gitignore for Python projects"
